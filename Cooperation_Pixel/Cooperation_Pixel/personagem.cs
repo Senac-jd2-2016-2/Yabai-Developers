@@ -8,6 +8,7 @@ namespace Cooperation_Pixel
 {
     class personagem
     {
+        // teste na classe
         public int velocidade;
         public float gravidade;
         public string nome;
