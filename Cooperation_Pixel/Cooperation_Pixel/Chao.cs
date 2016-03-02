@@ -8,5 +8,6 @@ namespace Cooperation_Pixel
     class Chao
     {
         public int x, y;
+        public int tamanho;
     }
 }
